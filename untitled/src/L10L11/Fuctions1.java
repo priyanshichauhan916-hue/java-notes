@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Fuctions1 {
     public static void main(String[] args) {
-        sum();
+        sum(); //calling a function
     }
 
     static void sum() {
