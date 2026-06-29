@@ -15,9 +15,6 @@ public class input {
             System.out.print(arr[i] + " ") ;
         }
 
-        for(int num:arr){
-            System.out.println(num + " ") ;
-        }
 
 
 
