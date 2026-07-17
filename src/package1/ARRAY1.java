@@ -16,7 +16,7 @@ public class ARRAY1 {
 
         //for loop taking input
         for (int i=0; i<arr1.length; i++){
-            arr1[i] = in.nextInt();
+            arr1[i] = input.nextInt();
         }
         //for loop for printing the given input
         for (int i = 0; i<arr1.length; i++){
