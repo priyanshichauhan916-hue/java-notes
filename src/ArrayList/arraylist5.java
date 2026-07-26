@@ -4,6 +4,6 @@ package ArrayList;
 
 public class arraylist5 {
     public class void main(String[] args){
-dghjkfghjghj
+dghjkfghjghjgit
     }
 }
