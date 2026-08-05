@@ -7,7 +7,7 @@ class Solution{
             if (arr[i] % 2 == 1){
                 count++;
             }gggit
-        }
+        }branch
         return count;
     }
     public static void main (String[] args){
