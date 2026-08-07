@@ -6,8 +6,8 @@ class Solution{
         for(int i=0 ; i< n; i++){
             if (arr[i] % 2 == 1){
                 count++;
-            }gggit
-        }branch
+            }
+        }
         return count;
     }
     public static void main (String[] args){
