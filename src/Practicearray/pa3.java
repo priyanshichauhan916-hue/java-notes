@@ -31,7 +31,7 @@ public class pa3 {
         pa3 ans = new pa3();
         System.out.print("Original Array: ");
         printArray(arr, n);
-        // here i have not called the reversed array
+        // here i have not called the reversed array so ill only see orignal array as output
 
 
     }
