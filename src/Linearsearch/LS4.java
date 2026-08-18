@@ -1,5 +1,5 @@
 //Search in 2D array
-
+//to be done later,, code has some issues
 package Linearsearch;
 public class LS4 {
     public static void main(String[] args) {
