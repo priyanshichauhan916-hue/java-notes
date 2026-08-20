@@ -6,12 +6,6 @@ class Solution {
 
 
 
-
-r
-
-
-
-
 public class LS5
 {
 	public static void main(String[] args)
