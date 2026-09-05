@@ -1,6 +1,7 @@
+//ceiling=smallest element in array greater or equal to target
 package BinarySearch;
 
-public class BS1 {
+public class BS3 {
     public static void main(String[] args){
         int [] arr= {1,2,4,5,6,7,8,9,90};
         int target=9;
@@ -25,9 +26,6 @@ public class BS1 {
             }
 
         }
-        return -1;
+        return left;
     }
-
-
 }
-
